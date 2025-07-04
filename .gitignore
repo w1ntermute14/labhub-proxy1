@@ -1,0 +1,5 @@
+# Go
+/bin/
+/vendor/
+*.exe
+*.log
