@@ -18,6 +18,6 @@
 1. Установите Go: https://go.dev/doc/install
 2. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ-ЛОГИН/labhub-proxy.git
+   git clone https://github.com/w1ntermute14/labhub-proxy1.git
    cd labhub-proxy
 3. Запустите сервер:go run main.go
